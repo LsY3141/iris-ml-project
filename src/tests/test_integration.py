@@ -1,5 +1,3 @@
-import pytest
-
 from src.data.loader import load_data
 from src.data.validator import validate_dataset
 from src.features.preprocessing import preprocess
